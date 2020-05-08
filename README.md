@@ -11,5 +11,5 @@ This is a README filE that I will use to better understand md language.
 
  
 ### ~~Understanding this is not as easy as it looks~~
-### After some testing this language is more understandable
+### *After some testing this language is more understandable*
 
